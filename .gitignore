@@ -1,0 +1,10 @@
+*.env
+*.sqlite3
+*/**/.venv
+**/migrations
+**/__pycache__
+*/**/media
+*/**/static
+*/**/staticfiles 
+.venv
+.DS_Store
